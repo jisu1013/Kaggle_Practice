@@ -1,1 +1,2 @@
-# kaggle_practice
+# Kaggle Practice
+주로 정형 데이테에 대한 분석을 하고 기본 대회들부터 차근차근 하고 있어요 :)
