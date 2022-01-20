@@ -7,6 +7,9 @@
 - House Price Prediction
 - Walmart Prediction
 - Bike Sharing Demand
+- Don't get Kicked
+- SanFrancisco Crime Classification
+- Shelter Animal Outcomes
 
 2) Dacon 👋
 - News Classification
