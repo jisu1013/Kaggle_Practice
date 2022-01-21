@@ -14,3 +14,4 @@
 2) Dacon 👋
 - News Classification
 - Bus Prediction
+- 잡케어 추천 알고리즘
