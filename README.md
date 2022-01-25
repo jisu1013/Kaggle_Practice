@@ -10,6 +10,7 @@
 - Don't get Kicked
 - SanFrancisco Crime Classification
 - Shelter Animal Outcomes
+- Housing Prices Competition for Kaggle Learn Users
 
 2) Dacon 👋
 - News Classification
